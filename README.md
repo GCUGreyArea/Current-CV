@@ -34,9 +34,9 @@
 B.Sc. Information Systems Analysis and Design - Kingston University (1991 - 1995)
 ## Skills
 - C: C17, C++: C++11/14/17/20, Python, Erlang, Java: Java 8 / 11
-- Maven, make, petalinux, buildroot
+- Maven, make, cmake, petalinux, buildroot
 - Real-time systems, Multi-core development / architecture, Multi-threading / PThreads, Algorithmic complexity, Data structures and algorithms, Team leadership and mentoring, Test-Driven Development (TDD)
 - Erlang Native Interface Functions (NIF), J2EE, WebLogic Application Server, Lex & Yacc / Bison, Ragel, Protect mode development, Windows services, Kernel modules / device driver development on Linux, FPGA integration, Netronome MicroC on the Agilio CX SmartNIC, DPDK18.05
 - Packet processing at Layer 2/3/4, IGMP, DHCP, ARP.
-- Junit, Mokito, JRunner, Google Test / Mock frameworks, Jenkins
+- Junit, Mokito, JRunner, Google Test / Mock frameworks, Jenkins, git
 - HTML / XML, CSS
